@@ -1,0 +1,5 @@
+Criando um Microsserviço Serverless para Validação de CPF
+
+1) Adicionei extensão Azure Functions ao VSCode
+2) Instalei o Azure Functions Core Tools localmente (func-cli-x64.msi)
+3) Instalei o Postman
